@@ -12,4 +12,7 @@ Redid the Lasagna Page as I was not following instructions.
 Have the ingredients, and step-by-step done, will add the layering lasagna. 
 
 6/22/24 5:03am 
-Added 2 More Menu Items and html pages (Pizza and Vanilla Ice Cream)S
+Added 2 More Menu Items and html pages (Pizza and Vanilla Ice Cream)
+
+6/25/24 9:01pm
+Finished the Vanilla Ice Cream Page and added a Home Link to return to index.html file.
